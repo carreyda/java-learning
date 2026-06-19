@@ -1,0 +1,74 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/sbt.xml
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Java build ###
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+build/
+target/
+classes/
+lib/
+
+### Gradle ###
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+### Maven ###
+mvnw
+mvnw.cmd
+.mvn/
+local.properties
+
+### Logs ###
+*.log
+log/
+logs/
+
+### OS ###
+.DS_Store
+Thumbs.db
+desktop.ini
